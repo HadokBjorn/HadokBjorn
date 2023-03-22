@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background-image:url("https://i.giphy.com/media/4knozU8q9AXvpod9qy/giphy.webp")>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DEV+FULLSTACK+EM+FORMAÇÃO)](https://git.io/typing-svg)
 
