@@ -12,7 +12,7 @@
 - 🌱 Atualmente estou aprendendo sobre:
 </div>
 
-<div align="left" display="flex"
+<div align="left" display="flex">
   <img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg">
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=chartreuse-dark)
