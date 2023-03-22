@@ -1,5 +1,5 @@
 <div align="center">
-  ![Typing gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM4NDQzYWIxYjFiYzg0ZjdmY2NiYzI5YjZjZjUyMjc0ZDVlZWJjZCZjdD1n/4knozU8q9AXvpod9qy/giphy.gif)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.giphy.com/media/4knozU8q9AXvpod9qy/giphy.webp))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DEV+FULLSTACK+EM+FORMAÇÃO)](https://git.io/typing-svg)
 
