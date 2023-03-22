@@ -13,7 +13,9 @@
 - 📚 Graduado em Física pela Universidade Federal do Acre - UFAC
 - 🌱 Atualmente estou aprendendo sobre:
 
-
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=chartreuse-dark)
+</div>
  
 
 
@@ -28,9 +30,7 @@
   <img align="center" alt="lipe-linux" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
   <img alingn="center" alt="lipe-ubuntu" src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white">
 </div>
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=chartreuse-dark)
-</div>
+
 <br>
 
  - #### 📫 Me encontre:
