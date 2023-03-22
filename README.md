@@ -5,7 +5,7 @@
 </div>
 
 
-## Olá, meu nome é Esaú Bandeira <img alt="icon-me" height="90" width="120" border-radius="50%"src="/assets/my-icon.jpeg">
+## Olá, meu nome é Esaú Bandeira <img alt="icon-me" height="90" width="120" border-radius="50"src="/assets/my-icon.jpeg">
 
 
 
