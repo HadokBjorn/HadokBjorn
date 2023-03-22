@@ -5,7 +5,7 @@
 </div>
 
 
-##<img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg"> Olá, meu nome é Esaú Bandeira
+<img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg"> ##Olá, meu nome é Esaú Bandeira
 
 
 
