@@ -5,19 +5,19 @@
 </div>
 
 <h2>Olá, meu nome é Esaú Bandeira 😎</h2>
-<div>
+<div align="left">
   <img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg">
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=chartreuse-dark)
 </div>
 
 
-
+<div aling="rigth">
 - 😄 Estou estudando para me tornar um Desenvolvedor Fullstack.
 - 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven Education</a> Bootcamp
 - 📚 Graduado em Física pela Universidade Federal do Acre - UFAC
 - 🌱 Atualmente estou aprendendo sobre:
-
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
