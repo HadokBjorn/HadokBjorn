@@ -4,8 +4,9 @@
 
 </div>
 
+<h2>Olá, meu nome é Esaú Bandeira 😎</h2>
 
-<img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg"><h2>Olá, meu nome é Esaú Bandeira</h2>
+<img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg">
 
 
 
