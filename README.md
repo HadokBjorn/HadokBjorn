@@ -28,7 +28,8 @@
   <img alingn="center" alt="lipe-ubuntu" src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white">
 </div>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=chartreuse-dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=tokyonight)
 
 
 <br>
