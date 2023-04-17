@@ -53,7 +53,8 @@
 
 
 <br>
-<h4>- 📫 Me encontre:</h4>
+
+# 📫 **Me encontre:**
 
 <div> 
   <a href="https://www.linkedin.com/in/esau-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
