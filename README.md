@@ -1,32 +1,51 @@
-<div align="center">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB475&lines=Moshi+Moshi+%E2%9C%A8+Eu+sou+o+Esaú+;Bem-Vindes!+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DEV+FULLSTACK+EM+FORMAÇÃO)](https://git.io/typing-svg)
+# 👽 **Sobre mim:**
 
-</div>
+<img align="right" alt="GIF" src="./assets/programmer.gif" width="250" height="200" />
 
- <img alt="icon-me" height="70" width="80" src="/assets/my-icon.jpeg">
+<p>
+    Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
+    A formação no ensino superior é atualmente uma das minhas maiores conquistas, e foi o ponto de partida do meu flerte com os estudos de tecnologia 💕💻 <br> 
+    <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
+    pretendo seguir aprendendo e encarando mais desafios. 🚀
+</p>
 
-<h2>Olá, meu nome é Esaú Bandeira 😎</h2>
+<br/>
 
-- 😄 Estou estudando para me tornar um Desenvolvedor Fullstack.
-- 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven Education</a> Bootcamp
-- 📚 Graduado em Física pela Universidade Federal do Acre - UFAC
-- 🌱 Atualmente estou aprendendo sobre:
+#
 
- 
+# 💻 **Linguagens e Ferramentas:**
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
+<!-- ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) -->
+<!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)  -->
+<!-- ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) -->
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
+<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lipe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lipe-Node" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<!--<img align="center" alt="lipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="center" alt="lipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lipe-linux" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
-  <img alingn="center" alt="lipe-ubuntu" src="https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white">
-</div>
+#
+
+# 📊 **Estatísticas:**
 
 <br>
 
