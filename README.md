@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB475&lines=Moshi+Moshi+%E2%9C%A8+Eu+sou+o+Esaú+;Bem-Vindes!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+%F0%9F%98%8E+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindes!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
 
 # 👽 **Sobre mim:**
 
