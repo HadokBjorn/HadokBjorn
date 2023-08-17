@@ -8,7 +8,7 @@
     Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
     A formação no ensino superior é atualmente uma das minhas maiores conquistas, e foi o ponto de partida do meu flerte com os estudos de tecnologia 💕💻 <br> 
     <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
-    Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos desenvolvidos com calma.
+    Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos com calma.
 </p>
 
 <br/>
