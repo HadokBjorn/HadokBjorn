@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+%F0%9F%98%8E+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindes!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+✌️+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindes!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
 
 # 😎 **Sobre mim:**
 
@@ -8,7 +8,7 @@
     Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
     A formação no ensino superior é atualmente uma das minhas maiores conquistas, e foi o ponto de partida do meu flerte com os estudos de tecnologia 💕💻 <br> 
     <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
-    pretendo seguir aprendendo e encarando mais desafios. 🚀
+    Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos desenvolvidos com calma.
 </p>
 
 <br/>
@@ -51,6 +51,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadokBjorn&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HadokBjorn&theme=chartreuse-dark&locale=pt_BR&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 
 <br>
