@@ -2,7 +2,7 @@
 
 # 👽 **Sobre mim:**
 
-<img align="right" alt="GIF" src="./assets/programmer.gif" width="250" height="200" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
 <p>
     Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
