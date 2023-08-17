@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+%F0%9F%98%8E+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindes!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
 
-# 👽 **Sobre mim:**
+# 😎 **Sobre mim:**
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
