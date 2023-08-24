@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+✌️+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindes!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=25&pause=500&color=0EF7BA&vCenter=true&width=571&height=60&lines=Mochi%2C+mochi+✌️+eu+sou+o+Esa%C3%BA+Bandeira;Bem+vindos!;Fique+a+vontade+para+dar+uma+olhadinha)](https://git.io/typing-svg)
 
 # 😎 **Sobre mim:**
 
