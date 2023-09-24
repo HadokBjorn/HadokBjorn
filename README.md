@@ -4,14 +4,18 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
-<p>
+<h5>
     Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
-    A formação no ensino superior é atualmente uma das minhas maiores conquistas, e foi o ponto de partida do meu flerte com os estudos de tecnologia 💕💻 <br> 
-    <!-- <strong>Hoje é o Front que me faz feliz! 🧡 </strong> --> <br>
-    Aqui você pode se sentir a vontade para analisar ou passear pelo meus projetos com calma.
-</p>
+    Durante minha graduação senti que a tecnologia parecia muito distante, então, comecei a pesquisar<br>
+    por conta própria conteúdos desse tema, foi onde comecei a fazer cursinhos de js, java e c#. Me <br>
+    interessei cada vez mais pelo assunto e busquei uma formação atualizada com o <br>
+    mercado para poder aprender mais e assim se iniciou minha jornada como desenvolvedor.<br>
+    Hoje estou 100% focado na área de desenvolvimento de software, mantendo o sonho de poder <br>
+    fundir educação e tecnologia para poder ajudar as pessoas.<br>
+    Aqui você pode ver os projetos e a lista de tecnologias com as quais já trabalhei e trabalho.
+</h5>
 
-<br/>
+#
 
 #
 
