@@ -12,7 +12,7 @@
     mercado para poder aprender mais e assim se iniciou minha jornada como desenvolvedor.<br>
     Hoje estou 100% focado na área de desenvolvimento de software, mantendo o sonho de poder <br>
     fundir educação e tecnologia para poder ajudar as pessoas.<br>
-    Aqui você pode ver os projetos e a lista de tecnologias com as quais já trabalhei e trabalho.
+    Aqui você pode ver os projetos e a lista de tecnologias com as quais já trabalhei.
 </p>
 
 #
