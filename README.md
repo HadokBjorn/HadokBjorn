@@ -7,8 +7,8 @@
 <p>
     Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
     Durante minha graduação senti que a tecnologia parecia muito distante, então, comecei a pesquisar<br>
-    por conta própria conteúdos desse tema, foi onde comecei a fazer cursinhos de js, java e c#. Me <br>
-    interessei cada vez mais pelo assunto e busquei uma formação atualizada com o <br>
+    por conta própria conteúdos desse tema, foi onde comecei a fazer cursinhos de js, java e c#.<br>
+    Me interessei cada vez mais pelo assunto e busquei uma formação atualizada com o <br>
     mercado para poder aprender mais e assim se iniciou minha jornada como desenvolvedor.<br>
     Hoje estou 100% focado na área de desenvolvimento de software, aproveitando tudo o que <br>
     aprendi na educação com tecnologia para poder ajudar as pessoas.<br>
