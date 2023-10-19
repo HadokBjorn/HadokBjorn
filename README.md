@@ -4,13 +4,13 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/33/90/2c/33902c9c10c690fc388986265d2d2048.gif" width="250" height="200" />
 
-<p>
-    Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓<br>
-    Durante minha graduação senti que a tecnologia parecia muito distante, então, comecei a pesquisar<br>
+<p align="left">
+    Sou Desenvolvedor Web Full Stack com graduação em Física pela Universidade Federal do Acre 🧑🏼‍🎓.<br>
+    Durante minha graduação senti que a tecnologia parecia muito distante, então, comecei a pesquisar
     por conta própria conteúdos desse tema, foi onde comecei a fazer cursinhos de js, java e c#.<br>
-    Me interessei cada vez mais pelo assunto e busquei uma formação atualizada com o <br>
+    Me interessei cada vez mais pelo assunto e busquei uma formação atualizada com o
     mercado para poder aprender mais e assim se iniciou minha jornada como desenvolvedor.<br>
-    Hoje estou 100% focado na área de desenvolvimento de software, aproveitando tudo o que <br>
+    Hoje estou 100% focado na área de desenvolvimento de software, aproveitando tudo o que
     aprendi na educação com tecnologia para poder ajudar as pessoas.<br>
     Aqui você pode ver os projetos e a lista de tecnologias com as quais já trabalhei.
 </p>
