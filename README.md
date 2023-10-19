@@ -10,8 +10,8 @@
     por conta própria conteúdos desse tema, foi onde comecei a fazer cursinhos de js, java e c#. Me <br>
     interessei cada vez mais pelo assunto e busquei uma formação atualizada com o <br>
     mercado para poder aprender mais e assim se iniciou minha jornada como desenvolvedor.<br>
-    Hoje estou 100% focado na área de desenvolvimento de software, mantendo o sonho de poder <br>
-    fundir educação e tecnologia para poder ajudar as pessoas.<br>
+    Hoje estou 100% focado na área de desenvolvimento de software, aproveitando tudo o que <br>
+    aprendi na educação com tecnologia para poder ajudar as pessoas.<br>
     Aqui você pode ver os projetos e a lista de tecnologias com as quais já trabalhei.
 </p>
 
